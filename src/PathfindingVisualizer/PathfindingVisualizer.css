@@ -1,0 +1,18 @@
+.grid {
+  margin: 60px 0 0;
+}
+
+.btnvda{
+  margin: 18px;
+  padding: 1px;
+  background-color: rgb(240, 164, 164);
+  border-radius: 5px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font: bold;
+  font-size: 20px;
+  cursor: pointer;
+}
+.btnvda:hover{
+  background-color: rgba(136, 235, 38, 0.612);
+  
+}
